@@ -1,0 +1,29 @@
+body{
+    width:500px;
+    margin:auto;
+  }
+  .card{
+    border: 1px solid black;
+    float:left;
+    width:100%;
+  }
+  .cardItem{
+    float: left;
+    width:25%;
+    text-align: center;
+    padding: 2px 0px 2px 0px;
+  }
+  .yesButton, .noButton{
+    margin-top: 5px;
+    color: white;
+    width:50%;
+    float:left;
+    border: 1px solid white;
+    padding: 10px 10px 10px 10px;
+  }
+  .yesButton{
+    background-color: green;
+  }
+  .noButton{
+    background-color: red;
+  } 
